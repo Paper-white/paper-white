@@ -1,16 +1,13 @@
-## Hi there 👋
+> 和你们这些少爷不同，我们光是活着就竭尽全力了。
 
-<!--
-**Paper-white/paper-white** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+嘛，总之就是先做个自我介绍吧
+这里是白纸，爱好胡搞乱搞的阿宅
+什么都会一点，但又不完全会（俗称全能工具人
+大家也可以叫我纸儿/白纸姐姐
+爱好的话，大概是？吃吃吃/睡觉/玩游戏/赚钱~~（谁会不喜欢钱呢~~
 
-Here are some ideas to get you started:
+忠实的MC爱好者/菜鸡阴游音游玩家/基于小皮鞭抽AI的开发者
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+现在还是个小萌新，希望有一天能够成为众人口中的大佬，被大家所依靠，但在此之前，就还麻烦大佬们多多包涵了！（笑
+
+努力给大家展现出自己积极的一面
